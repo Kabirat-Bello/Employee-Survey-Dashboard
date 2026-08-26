@@ -162,12 +162,6 @@ Based on the findings:
 
 ---
 
-## Dashboard Preview
-
-![Dashboard Screenshot](HR%20Dashboard.png)
-
----
-
 ## Skills Demonstrated
 
 This project demonstrates proficiency in:
