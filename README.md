@@ -3,7 +3,7 @@
 
 ## Dashboard Preview
 
-![HR Employee Survey Dashboard](HR Dashboard.png)
+![HR Employee Survey Dashboard](./HR%20Dashboard.png)
 
 
 ## Project Overview
